@@ -5,3 +5,5 @@
 
 [01: Class 1 Reading](/401/class01-reading.md)
 
+[02: Class 2 Reading](/401/class02-reading.md)
+
