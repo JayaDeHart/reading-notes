@@ -7,3 +7,5 @@
 
 [02: Class 2 Reading](/401/class02-reading.md)
 
+[03: Class 3 Reading](/401/class03-reading.md)
+
