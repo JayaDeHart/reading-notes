@@ -9,3 +9,5 @@
 
 [03: Class 3 Reading](/401/class03-reading.md)
 
+[04: Class 4 Reading](/401/class04-reading.md)
+
