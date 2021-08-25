@@ -14,3 +14,5 @@
 [06: Class 6 Reading](/401/class06-reading.md)
 
 [07: Class 7 Reading](/401/class07-reading.md)
+
+[08: Class 8 Reading](/401/class07-reading.md)
