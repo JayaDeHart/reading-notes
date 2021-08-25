@@ -12,3 +12,5 @@
 [04: Class 4 Reading](/401/class04-reading.md)
 
 [06: Class 6 Reading](/401/class06-reading.md)
+
+[07: Class 7 Reading](/401/class07-reading.md)
