@@ -20,3 +20,5 @@
 [09: Class 9 Reading](/401/class09-reading.md)
 
 [11: Class 11 Reading](/401/class11-reading.md)
+
+[12: Class 12 Reading](/401/class12-reading.md)
